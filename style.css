@@ -2,3 +2,18 @@ h1.titulo{
     background-color: black;
     color: orange;
 }
+p.plantilla{
+    position: relative;
+    bottom: -250px;
+    left: 300px;
+}
+p.taquilla{
+    position: relative;
+    bottom: -50px;
+    left: 1220px;
+}
+p.contacto{
+    position: relative;
+    bottom: -250px;
+    left: 2000px;
+}

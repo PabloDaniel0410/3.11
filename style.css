@@ -10,12 +10,12 @@ p.plantilla{
 p.taquilla{
     position: relative;
     bottom: -50px;
-    left: 1220px;
+    left: 900px;
 }
 p.contacto{
     position: relative;
-    bottom: -250px;
-    left: 2000px;
+    bottom: -350px;
+    left: 1500px;
 }
 
 body{
